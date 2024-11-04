@@ -1,5 +1,4 @@
 import csv
-import sys
 import os
 
 def break_down(word):
