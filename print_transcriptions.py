@@ -65,7 +65,7 @@ Menu: (type number and then press RETURN/ENTER)
 19 for silent letters
 """
 
-csv_file_name = menu_dictionary[input(menu_text)]
+csv_file_name = f"word_lists/{menu_dictionary[input(menu_text)]}"
 
 with open(csv_file_name, mode='r', encoding='utf-8') as file:
     csv_reader = csv.DictReader(file)
