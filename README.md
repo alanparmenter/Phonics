@@ -5,3 +5,4 @@ A menu appears; type a number then press return.
 
 Press return to cycle through words until the end.
 
+<img width="512" alt="phonics_psychology" src="https://github.com/user-attachments/assets/c7fc1c9f-65de-4e8b-ae4e-ec61d0268374">
